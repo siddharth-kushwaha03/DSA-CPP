@@ -6,5 +6,4 @@ int main(){
     cout<<v.size()<<" "<<v.capacity()<<endl;
     v.push_back(-6);
     cout<<v.size()<<" "<<v.capacity()<<endl;
-
 }

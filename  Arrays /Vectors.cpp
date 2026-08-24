@@ -33,7 +33,7 @@ int main(){
     }
 }
 
-// 
+// push and pop 
 
 #include<iostream>
 #include<vector>
@@ -50,3 +50,4 @@ int main(){
         cout<<arr[i]<<" ";
     }
 }
+
